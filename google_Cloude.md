@@ -28,9 +28,9 @@ Google Cloud es popular entre empresas y desarrolladores debido a su escalabilid
 
    5. **Crear una Instancia de VM**: Haz clic en "Crear instancia". Configura tu VM:
 
-   ***Nombre**: Asigna un nombre único.
+   **Nombre**: Asigna un nombre único.
 
-   ***Región y Zona**: Selecciona la ubicación geográfica de tu VM.
+   **Región y Zona**: Selecciona la ubicación geográfica de tu VM.
 
    **Tipo de Máquina**: Elige la configuración de CPU y memoria.
 
