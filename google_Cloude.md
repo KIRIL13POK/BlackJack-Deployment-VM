@@ -18,22 +18,27 @@ Google Cloud es popular entre empresas y desarrolladores debido a su escalabilid
 
 ### Crear una máquina virtual en Google Cloud implica estos pasos:
 
-   1. Acceso a Google Cloud Console: Inicia sesión en tu cuenta de Google y abre la Google Cloud Console.
+   1. **Acceso a Google Cloud Console**: Inicia sesión en tu cuenta de Google y abre la Google Cloud Console.
  
-   2. Crear un Proyecto: Si aún no tienes uno, crea un proyecto nuevo desde la consola de inicio.
+   2. **Crear un Proyecto**: Si aún no tienes uno, crea un proyecto nuevo desde la consola de inicio.
 
-   3. Habilitar Facturación: Asegúrate de que tu proyecto tenga habilitada la facturación, ya que es necesaria para utilizar recursos de Google Cloud.
+   3. **Habilitar Facturación**: Asegúrate de que tu proyecto tenga habilitada la facturación, ya que es necesaria para utilizar recursos de Google Cloud.
 
-   4. Ir a Compute Engine: En el menú de la consola, selecciona "Compute Engine" y luego "Instancias de VM".
+   4. **Ir a Compute Engine**: En el menú de la consola, selecciona "Compute Engine" y luego "Instancias de VM".
 
-   5. Crear una Instancia de VM: Haz clic en "Crear instancia". Configura tu VM:
+   5. **Crear una Instancia de VM**: Haz clic en "Crear instancia". Configura tu VM:
 
-***Nombre**: Asigna un nombre único.
-***Región y Zona**: Selecciona la ubicación geográfica de tu VM.
-**Tipo de Máquina**: Elige la configuración de CPU y memoria.
-**Imagen de Disco**: Selecciona un sistema operativo.
-**Configuración de Red y Firewall**: Establece las reglas de red y puertos.
-**Crear la Instancia**: Revisa la configuración y haz clic en "Crear" para lanzar tu máquina virtual.
+   ***Nombre**: Asigna un nombre único.
+
+   ***Región y Zona**: Selecciona la ubicación geográfica de tu VM.
+
+   **Tipo de Máquina**: Elige la configuración de CPU y memoria.
+
+   **Imagen de Disco**: Selecciona un sistema operativo.
+
+   **Configuración de Red y Firewall**: Establece las reglas de red y puertos.
+
+   **Crear la Instancia**: Revisa la configuración y haz clic en "Crear" para lanzar tu máquina virtual.
 
 Con estos pasos, tendrás una máquina virtual en Google Cloud lista para ser utilizada y configurada según tus necesidades.
 
